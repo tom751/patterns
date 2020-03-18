@@ -1,5 +1,5 @@
 ---
-path: repository
+path: /repository
 title: Repository
 date: 2020-03-18T11:36:19.375Z
 ---
